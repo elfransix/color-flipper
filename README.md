@@ -2,4 +2,4 @@
 
 ## Hosted Link
 
-[Live Preview](https://github.com/elfransix/color-flipper)
+[Live Preview](http://127.0.0.1:5500/index.html)
