@@ -235,4 +235,14 @@ main {
 .btn-hero:hover {
   color: var(--clr-white);
   background: var(--clr-black);
-}                                                       
+}                                        
+.github-icon {
+  padding-top: 20px;
+}       
+.fab {
+  color: var(--clr-black);
+  font-size: 2.5rem;
+}
+.fab:hover {
+  color: var(--clr-grey-4);
+}
